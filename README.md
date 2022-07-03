@@ -1,5 +1,7 @@
-# qb-customs
+# qb-customs - old Style
 Vehicle Customization For QB-Core
+
+![Imgur](https://i.imgur.com/mIz9Gtz.png)
 
 Make sure to read the locations.lua settings VERY carefully. It has all the information needed to properly setup all your locations. Chances are if something is not working, your configuration for that location is wrong. Doublecheck before opening an issue.
 
